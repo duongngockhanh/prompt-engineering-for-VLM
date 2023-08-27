@@ -1,4 +1,4 @@
-# Prompt Engineering studies and blogs for Vision-Language models.
+# Prompt Engineering for Vision-Language models
 
 ## CLIP
 1. Learning Transferable Visual Models From Natural Language Supervision - 2021 ([Paper](https://arxiv.org/pdf/2103.00020.pdf) - [GitHub](https://github.com/openai/CLIP) - [Blog](https://openai.com/research/clip))
